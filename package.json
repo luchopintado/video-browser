@@ -30,6 +30,6 @@
     "css-minimizer-webpack-plugin": "^8.0.0",
     "webpack-dev-server": "^5.2.3",
     "resolve-url-loader": "^5.0.0",
-    "ws": "^8.19.0"
+    "ws": "^8.20.1"
   }
 }
